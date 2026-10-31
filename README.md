@@ -6,4 +6,4 @@ Invalid observations are counted and excluded from numeric summaries.
 The trailing 15-minute window reports exceedance counts and coverage.
 Thresholds are educational proxies, not 45th Weather Squadron launch criteria.
 Missing minutes remain visible through window coverage counts.
-Check: `python -m unittest discover -s tests`.
+Check: `python -m unittest discover -s tests`. [Portfolio: melgoldstein.com](https://melgoldstein.com/)
